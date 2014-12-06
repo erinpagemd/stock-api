@@ -3,6 +3,8 @@
 
 body{
   background-color: #b7a8da;
+  background-image: url(market.jpg);
+  background-size: cover;
 }
 
 #quote{
@@ -19,4 +21,5 @@ body{
 
 h1{
   font-family: 'Pacifico', cursive;
+  color: white;
 }
