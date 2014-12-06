@@ -1,0 +1,22 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import url(http://fonts.googleapis.com/css?family=Pacifico);
+
+body{
+  background-color: #b7a8da;
+}
+
+#quote{
+  font-family: 'Open Sans', sans-serif;
+  border: 3px double #e0cd97;
+  background-color: #caea4d;
+  border-radius: 10px;
+  padding: 50px;
+  display: inline-block;
+  position: absolute;
+  top: 25px;
+  right: 25px;
+}
+
+h1{
+  font-family: 'Pacifico', cursive;
+}
